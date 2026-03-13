@@ -1,6 +1,6 @@
 [submodule "frontend"]
 	path = frontend
-	url = https://gitee.com/yake2024/knowledge-hub-frontend.git
+	url = https://github.com/lianjishu/KnowledgeHub-frontend.git
 [submodule "backend-java"]
 	path = backend-java
-	url = https://gitee.com/yake2024/knowledge-hub-backend.git
+	url = https://github.com/lianjishu/KnowledgeHub-backend.git
